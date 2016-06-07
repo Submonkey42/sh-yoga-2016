@@ -1,0 +1,28 @@
+#navbar {
+    text-align: center;
+    padding:5px;
+    height:100px;
+    font-family: 'Handlee', cursive, bold;
+}
+
+
+.navbox {
+    display: inline-block;
+    border: 2px solid black;
+    font-size: 24px;
+    width:500;
+    height:200;
+    background-size:20%;
+    background-color:rgba(255,255,255,.5);
+}
+
+a:link {
+    text-decoration: none;
+    color:orange;
+}
+
+a:visited {
+    text-decoration: none;
+    color:orange;
+}
+
